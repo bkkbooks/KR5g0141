@@ -1,0 +1,40 @@
+canonical_identifier: bkk:krp/KR5g0141/HFL/v1
+canonical_location: https://kanripo.org/bkk/KR5g0141/HFL/v1
+canonical_set:
+  identifier: bkk:charset/cjk-v1
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+metadata:
+  title: 洞真太上紫度炎光神元變經
+  date: '2015-08-29 02:58:31.551550'
+  source:
+    repository: kanripo
+    path: KR5g0141
+  image_base_urls:
+    SJB: http://img.kanripo.org/daoist/ztdz/
+    WYG: http://img.kanripo.org/general/skqs/wyg/
+    YP-C: http://img.kanripo.org/daoist/dzjy/JY-C/
+    HFL: http://img.kanripo.org/daoist/ztdz/
+    CK-KZ: http://img.kanripo.org/daoist/dzjy/CK-KZ/
+  edition:
+    short: HFL
+    label: 【正統道藏・涵芬樓版】
+entity_encoding:
+  identifier: bkk:encoding/kanripo-pua-v1
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+assets:
+  parts:
+  - {seq: 0, filename: KR5g0141_000-HFL.yaml, hash: 'sha256:ca8be6f08b5529a568fd9610c2d0ec224f0e2733e8f90f8c29b4f8722fe079bb'}
+  markers:
+  - {seq: 0, role: markers, filename: assets/KR5g0141_000-HFL.markers.yaml, hash: 'sha256:8dc879e5a0bf447117a65da36a0be879249e246d1e073cf7c111025aa6ffcfe3'}
+table_of_contents:
+- ref:
+    seq: 0
+    marker_id: KR5g0141_HFL_000-001a
+    span:
+    - body
+    - 0
+    - 9767
+  label: juan 000
+  type: section
+  level: 1
+hash: sha256:17b8d2a7534add4e17a61c9779e2ec835f20cdf4813f41b8764ca1cdb255b818

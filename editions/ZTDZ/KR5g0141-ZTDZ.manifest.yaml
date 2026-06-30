@@ -1,0 +1,40 @@
+canonical_identifier: bkk:krp/KR5g0141/ZTDZ/v1
+canonical_location: https://kanripo.org/bkk/KR5g0141/ZTDZ/v1
+canonical_set:
+  identifier: bkk:charset/cjk-v1
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+metadata:
+  title: 洞真太上紫度炎光神元變經
+  date: '2015-08-29 02:58:31.551550'
+  source:
+    repository: kanripo
+    path: KR5g0141
+  image_base_urls:
+    SJB: http://img.kanripo.org/daoist/ztdz/
+    WYG: http://img.kanripo.org/general/skqs/wyg/
+    YP-C: http://img.kanripo.org/daoist/dzjy/JY-C/
+    HFL: http://img.kanripo.org/daoist/ztdz/
+    CK-KZ: http://img.kanripo.org/daoist/dzjy/CK-KZ/
+  edition:
+    short: ZTDZ
+    label: 【正統道藏・三家本】
+entity_encoding:
+  identifier: bkk:encoding/kanripo-pua-v1
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+assets:
+  parts:
+  - {seq: 0, filename: KR5g0141_000-ZTDZ.yaml, hash: 'sha256:cc5273ffcb3b58e34c5afe298ac4c9d94dbad0c615b1c0293b6f8c6e812b8c74'}
+  markers:
+  - {seq: 0, role: markers, filename: assets/KR5g0141_000-ZTDZ.markers.yaml, hash: 'sha256:e110aee73c1cc91eb6fb828f668a50a36149963d0007f849027e7cdc714172ac'}
+table_of_contents:
+- ref:
+    seq: 0
+    marker_id: KR5g0141_SJB_000-330553c
+    span:
+    - body
+    - 0
+    - 9767
+  label: juan 000
+  type: section
+  level: 1
+hash: sha256:ea11278ace34f22260c0d86e2d9385c33986ca2ff00aef757c6fb039e5a70948
